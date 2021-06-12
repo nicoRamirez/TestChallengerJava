@@ -13,3 +13,5 @@ a. ¿Qué errores críticos encuentras en el proyecto?
 b. ¿Qué malas prácticas encuentras en el proyecto?
 c. ¿Qué errores de lógica encuentras en el proyecto?
 2. Crea tu versión del proyecto mejorado y sube el código a tu propio repositorio
+
+
